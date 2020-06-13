@@ -8,7 +8,7 @@
 
 ###  Control Flow Graph
 
-![Слика од CFG](./185003 - Control Flow Graph.pdf )
+![Слика од CFG](http://./185003 - Control Flow Graph.pdf )
 
 ### Цикломатска комплексност
 
